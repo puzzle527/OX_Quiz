@@ -1,0 +1,47 @@
+img
+{
+    width:100%;
+    height:80%px;
+}
+
+.h2 {
+    margin-top: 31pt;
+    font-size: 3.2rem;
+    font-weight: 300;
+}
+
+.startbutton {
+    margin-top: 20pt;
+    margin-bottom: 50pt;
+    display: inline-block;
+    width: 50%;
+    box-shadow: 0.3rem 0.4rem 0 #222222;
+    border-radius: 3rem;
+    border: 0.25rem solid #222222;
+    font-size: 2rem;
+    text-align: center;
+    line-height: 4rem;
+    font-family: 'jalnan', sans-serif;
+    background: #ffd524;
+}
+
+
+.social-link{
+    line-height: 70px;
+    
+}
+
+.facebook {
+    background-color: #3b5998;
+    font-size: 1.5rem;
+  }
+
+.twitter{
+    background-color: #3B94D9;
+    font-size: 1.5rem;
+}
+
+.kakao{
+    background-color: #fef01b;
+    font-size: 1.5rem;
+}

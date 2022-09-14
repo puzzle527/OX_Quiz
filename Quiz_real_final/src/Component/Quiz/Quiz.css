@@ -1,0 +1,36 @@
+.quest {
+    font-size: 28pt;
+}
+
+.qu2 {
+    font-size: 20pt;
+}
+
+.circle {
+    margin-top: 10%;
+    width: 33%;
+    height: 33%;
+}
+
+.no {
+
+    width: 55%;
+    height: 55%;
+}
+
+.back {
+
+    margin-top: 40pt;
+    margin-bottom: 50pt;
+    display: inline-block;
+    width: 50%;
+    box-shadow: 0.3rem 0.4rem 0 #222222;
+    border-radius: 3rem;
+    border: 0.25rem solid #222222;
+    font-size: 1.5rem;
+    text-align: center;
+    line-height: 3rem;
+    font-family: 'jalnan', sans-serif;
+    background: #ffd524;
+
+}
