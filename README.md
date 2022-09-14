@@ -24,13 +24,9 @@
   - :running: Progress Bar 컴포넌트
   - :question: 문제
   - :o: O/X Images
-  - :arrow_left: 이전문제 버튼 컴포넌트
-
+  - :arrow_left: 이전문제 버튼
 - :running:Progress Bar : Progress Bar 컴포넌트
   - :speech_balloon: Progress Bar
-
-- :arrow_left: 이전문제 버튼 컴포넌트
-  - :black_square_button: 이전문제 버튼
 
 - :100:Score : 점수화면 컴포넌트 
   - :ballot_box_with_check: 점수
