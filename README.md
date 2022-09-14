@@ -5,15 +5,18 @@
 - :sunflower: 세종대왕님에 대한 OX 문제를 맞추고 결과를 확인하는 사이트
 
 ## :sunglasses:팀원 명단 및 역할
-- :man:김형준 : 
-- :woman:김다현 : 
-- :man:김성훈 : 
+- :man:김형준 : Quiz, Progress Bar 
+- :woman:김다현 : Header 컴포넌트, CSS
+- :man:김성훈 : Start, Score 컴포넌트
 
 ## :frog:컴포넌트 및 객체 정의
 - :top:App : 최상위 컴포넌트
   - :page_facing_up: Start 컴포넌트
   - :pencil: Quiz 컴포넌트
   - :100: Score 컴포넌트
+  
+- :mortar_board:Header : Header 컴포넌트
+  - :tophat: 간단 상식 OX 퀴즈
 
 - :page_facing_up:Start : 시작화면 컴포넌트
   - :camera: 세종대왕 Image
@@ -56,14 +59,9 @@
 </p>
 
 ## :interrobang:트러블슈팅(에러 내역, 어떻게 해결했는지)
-:x:문제 : <br>
-:o:해결 : 
-
-:x:문제 : <br>
-:o:해결 : 
-
+:o::x: : 없음
 
 ## :cyclone:느낀점
 - :man:김형준 : 
 - :woman:김다현 : 
-- :man:김성훈 : 
+- :man:김성훈 : react Component 구조와 useState, lifting_state_up 개념에 대해서 잘 학습할 수 있는 계기가 되어서 좋았고 팀원분들이 많은 도움을 주셔서 감사했습니다.
