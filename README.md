@@ -7,7 +7,7 @@
 ## :sunglasses:팀원 명단 및 역할
 - :man:김형준 : Quiz, Progress Bar 
 - :woman:김다현 : Header 컴포넌트, CSS
-- :man:김성훈 : Start, Score 컴포넌트
+- :man:김성훈 : Start, Score 컴포넌트, git 꾸미기
 
 ## :frog:컴포넌트 및 객체 정의
 - :top:App : 최상위 컴포넌트
